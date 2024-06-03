@@ -6,3 +6,5 @@ A=[0, 1;-k/m, -b/m];
 B=[0;1/m];
 inp=10*exp(-t);
 dx=A*x+B*inp;
+
+end;
